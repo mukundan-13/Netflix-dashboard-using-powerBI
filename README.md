@@ -15,10 +15,12 @@ Though it is a sample dataset, I have analyzed clearly and cleaned the errors an
 
 The output is:
 
-![output1](https://github.com/user-attachments/assets/a3767563-bc41-411f-b9c0-0a6b2519b1c9)
+![op](https://github.com/user-attachments/assets/6158bed0-39bb-47d8-a584-0fdbc0f6e5e7)
 
 The dashboard the shows the parameters based on movies without including web series
-![movies](https://github.com/user-attachments/assets/44c4be57-830f-45a9-93a7-b96ac4c47bb7)
+
+![mov](https://github.com/user-attachments/assets/4e7f573d-7300-479d-8838-f2c1fa83c423)
 
 The dashboard with including both movies and web series. The whole results based on these two data is below. 
-![bothmov_web](https://github.com/user-attachments/assets/5f1660bd-7667-4e91-bf9c-589a9d3b8dfd)
+
+![both](https://github.com/user-attachments/assets/2f8f53d1-64e3-491b-a54a-a18639bdbf6b)
